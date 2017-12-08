@@ -16,6 +16,12 @@ The steps to be followed are :-
 
 4. After downloading the files, you run index.php file. This will start the application.
 
+5. Any number of users can login the chat room and chat. Make sure that you use different web browser for each login.
+
+6. For viewing the current chat you will have to refresh the page.
+
+7. Once you logout, and then login again after sometime, you can see the chats at those time as well. 
+
 
 This project is build on Model View Controller architecture.
 
