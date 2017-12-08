@@ -1,0 +1,46 @@
+
+body
+{
+	background-color: #2a22b7;
+	background-image: url(mainbuilding.jpg);
+}
+
+#main
+{
+	height: 400px;
+	background-color: yellow;
+	margin-top: 100px;
+	border-radius: 300px;
+}
+
+#info
+{
+	margin-left: 20px;
+	padding-top: 2px;
+}
+
+input[type = text]
+{
+	width: 260px;
+	box-sizing: border-box;
+	border: 2px solid #bfc62f;
+	border-radius: 4px;
+}
+
+input[type = Password]
+{
+    width: 260px;
+	box-sizing: border-box;
+	border: 2px solid #bfc62f;
+	border-radius: 4px;
+
+}
+
+input[type = Email]
+{
+    width: 260px;
+	box-sizing: border-box;
+	border: 2px solid #bfc62f;
+	border-radius: 4px;
+
+}

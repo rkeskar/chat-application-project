@@ -1,0 +1,41 @@
+#main
+{
+	height: 450px;
+	background-color: white;
+	margin-top: 70px;
+	
+}
+
+
+ul
+{
+	list-style: none;
+}
+
+input[type=submit]
+{
+	width: 100px;
+	box-sizing: 4px solid: #6495ed;
+	border-radius: 4px;
+}
+
+textarea
+{
+	background-color: #dcdcdc;
+	width: 350px;
+}
+
+body
+{
+	background-color: #2a22b7;
+}
+
+
+.output
+{
+	background-color: white;
+	height: 250px;
+	width: 800px;
+	margin-bottom: 20px;
+	overflow: scroll;
+}
