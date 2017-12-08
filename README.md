@@ -23,7 +23,10 @@ The steps to be followed are :-
 7. Once you logout, and then login again after sometime, you can see the chats at those time as well. 
 
 
-This project is build on Model View Controller architecture.
+
+
+
+
 
 
 
